@@ -14,3 +14,5 @@ This is a simple web application built using Flask and SQLAlchemy for managing t
 - Python (3.7 or higher)
 - pip (Python package installer)
 - SQLite (or any other supported database)
+
+<img width="1470" alt="Screenshot 2024-06-16 at 2 20 19 PM" src="https://github.com/Abhishek4852/TODO-WEB-APPLICATION/assets/147502615/fdbe522b-e820-4977-8a14-9ab7e808ebfb">
